@@ -36,8 +36,8 @@ The system will allow admin to add, update and remove the buses, and routes. The
 
 ## Non-Functional Requirements
 ### Security
-Authentication: Users should be required to authenticate themselves before booking the tickets. This can be done through a login process that requires a username and password.
-Authorization: The system should enforce access controls to ensure that only authorized users can access sensitive data and perform certain actions.
+Authentication: Users should be required to authenticate themselves before booking the tickets. This can be done through a login process that requires a username and password. <br/>
+Authorization: The system should enforce access controls to ensure that only authorized users can access sensitive data and perform certain actions. <br/>
 Password policy: The system should enforce a strong password policy that requires users to create passwords that are difficult to guess or crack.
 
 ### Reliability
